@@ -1,2 +1,2 @@
 # my_ml_projects
-These are the list of projects I have done
+These are the projects I have done while upgrading my skills through SCALER
